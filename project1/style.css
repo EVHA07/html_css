@@ -276,6 +276,11 @@ footer{
   width: 80%; /* Could be more or less, depending on screen size */
 }
 
+.modal-content p {
+  color: black;
+}
+
+
 /* The Close Button */
 .close {
   color: #322f2f;
